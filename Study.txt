@@ -1,0 +1,7 @@
+CÁC PH?N M?M QU?N LÝ MÃ NGU?N
+github ( uu tiên)
+TFS
+(Azure server)
+H?c k? l?i toàn b? khóa Restful  + 2 khóa android
+nghiên c?u thêm d? án
+- có th? h?c thêm python d? create server

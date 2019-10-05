@@ -1,7 +1,8 @@
-CÁC PH?N M?M QU?N Lİ MÃ NGU?N
-github ( uu tiên)
+CÃC PH?N M?M QU?N LÃ MÃƒ NGU?N
+github ( uu tiÃªn)
 TFS
 (Azure server)
-H?c k? l?i toàn b? khóa Restful  + 2 khóa android
-nghiên c?u thêm d? án
-- có th? h?c thêm python d? create server
+H?c k? l?i toÃ n b? khÃ³a Restful  + 2 khÃ³a android
+nghiÃªn c?u thÃªm d? Ã¡n
+/bin/
+- cÃ³ th? h?c thÃªm python d? create server
